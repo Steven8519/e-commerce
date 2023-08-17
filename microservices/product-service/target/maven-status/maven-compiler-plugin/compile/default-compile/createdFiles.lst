@@ -1,0 +1,11 @@
+com/store/example/core/productservice/dto/ProductRequest.class
+com/store/example/core/productservice/repository/ProductRepository.class
+com/store/example/core/productservice/dto/ProductResponse.class
+com/store/example/core/productservice/ProductServiceApplication.class
+com/store/example/core/productservice/model/Product.class
+com/store/example/core/productservice/service/ProductService.class
+com/store/example/core/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/store/example/core/productservice/model/Product$ProductBuilder.class
+com/store/example/core/productservice/controller/ProductController.class
+com/store/example/core/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/store/example/core/productservice/service/ProductServiceImpl.class

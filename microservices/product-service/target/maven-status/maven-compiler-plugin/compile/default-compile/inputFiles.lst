@@ -1,0 +1,8 @@
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/dto/ProductResponse.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/service/ProductService.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/model/Product.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/repository/ProductRepository.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/dto/ProductRequest.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/ProductServiceApplication.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/service/ProductServiceImpl.java
+/Users/stevenmcdonald/Desktop/e-commerce/microservices/product-service/src/main/java/com/store/example/core/productservice/controller/ProductController.java
