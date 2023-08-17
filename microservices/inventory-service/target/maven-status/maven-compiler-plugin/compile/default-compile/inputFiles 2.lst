@@ -1,8 +1,0 @@
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/InventoryServiceApplication.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/model/Inventory.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/controller/InventoryController.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/util/DataLoader.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/service/InventoryService.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/dto/InventoryResponse.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/repository/InventoryRepository.java
-/Users/stevenmcdonald/Desktop/e-commerce/microservices/inventory-service/src/main/java/com/inventory/service/core/inventoryservice/service/InventoryServiceImpl.java
