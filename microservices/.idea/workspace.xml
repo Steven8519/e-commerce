@@ -4,11 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a4f3f36-7009-4b23-a44b-7c5b72c11470" name="Default Changelist" comment="new version" />
+    <list default="true" id="8a4f3f36-7009-4b23-a44b-7c5b72c11470" name="Default Changelist" comment="new version">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/microservices/core/DiscoveryServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/inventory-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/inventory-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/inventory-service-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/inventory-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/surefire-reports/TEST-com.inventory.service.core.inventoryservice.InventoryServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/surefire-reports/TEST-com.inventory.service.core.inventoryservice.InventoryServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/target/surefire-reports/com.inventory.service.core.inventoryservice.InventoryServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/target/surefire-reports/com.inventory.service.core.inventoryservice.InventoryServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/order-service-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/surefire-reports/TEST-com.order.example.core.orderservice.OrderServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/surefire-reports/TEST-com.order.example.core.orderservice.OrderServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/surefire-reports/com.order.example.core.orderservice.OrderServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/surefire-reports/com.order.example.core.orderservice.OrderServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/product-service-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.store.example.core.productservice.ProductServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.store.example.core.productservice.ProductServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.store.example.core.productservice.controller.ControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/surefire-reports/TEST-com.store.example.core.productservice.controller.ControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/com.store.example.core.productservice.ProductServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/surefire-reports/com.store.example.core.productservice.ProductServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/target/surefire-reports/com.store.example.core.productservice.controller.ControllerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/target/surefire-reports/com.store.example.core.productservice.controller.ControllerTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -22,7 +56,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/inventory-service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -33,10 +71,37 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
+      <command value="mvn clean" />
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.InventoryServiceApplication">
+  <component name="RunManager" selected="Application.DiscoveryServerApplication">
+    <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.core.DiscoveryServerApplication" />
+      <module name="discovery-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ecommerce.discovery.service.core.DiscoveryServiceApplication" />
+      <module name="discovery-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecommerce.discovery.service.core.DiscoverServiceApplication" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InventoryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.inventory.service.core.inventoryservice.InventoryServiceApplication" />
       <module name="inventory-service" />
@@ -78,6 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiscoveryServerApplication" />
+        <item itemvalue="Application.DiscoveryServiceApplication" />
         <item itemvalue="Application.InventoryServiceApplication" />
         <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.ProductServiceApplication" />

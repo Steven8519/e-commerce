@@ -8,12 +8,10 @@
         <version>3.1.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
-    <artifactId>product-service</artifactId>
-
+    <artifactId>poduct-service</artifactId>
     <properties>
         <java.compiler.source>17</java.compiler.source>
-        <java.compiler.target>17</java.compiler.target>
+        <java.compiler.targer>17</java.compiler.targer>
     </properties>
     <dependencies>
         <dependency>
